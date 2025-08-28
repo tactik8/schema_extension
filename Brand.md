@@ -73,7 +73,7 @@ Enthusiastic vs matter-of-fact
           "@type": "PropertyValue",
           "name": "humor",
           "value": "Funny",
-            "unitText": "scale 1=Funny, 5=Serious",
+          "unitText": "scale 1=Funny, 5=Serious",
           "valueReference": {
             "@type": "QuantitativeValue",
             "value": 4.5,
@@ -97,7 +97,7 @@ Enthusiastic vs matter-of-fact
           "@type": "PropertyValue",
           "name": "respectfulness",
           "value": "respectful",
-            "unitText": "scale 1=Respectful, 5=Irreverent",
+          "unitText": "scale 1=Respectful, 5=Irreverent",
           "valueReference": {
             "@type": "QuantitativeValue",
             "value": 1.5,
@@ -109,7 +109,7 @@ Enthusiastic vs matter-of-fact
           "@type": "PropertyValue",
           "name": "enthusiasm",
           "value": "Enthusiastic",
-            "unitText": "scale 1=Matter-of-fact, 5=Enthusiastic",
+          "unitText": "scale 1=Matter-of-fact, 5=Enthusiastic",
           "valueReference": {
             "@type": "QuantitativeValue",
             "value": 4,
