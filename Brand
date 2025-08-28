@@ -47,11 +47,47 @@ Respectful vs irreverent
 Enthusiastic vs matter-of-fact
 
 
+## Example
 
-Funny vs serious
+```
+{
+      "@type": "Brand",
+      "@id": "https://www.test.com#brand",
+      "name": "test",
+      "url": "https://www.test.com",
+      "logo": "https://www.test.com/logo.png",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "primaryArchetype",
+          "value": "Caregiver"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "secondaryArchetype",
+          "value": "Everyman"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "humor",
+          "value": "Funny"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "formality",
+          "value": "casual"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "respectfulness",
+          "value": "respectful"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "enthusiasm",
+          "value": "Enthusiastic"
+        },
+    }
 
-Formal vs casual
+```
 
-Respectful vs irreverent
-
-Enthusiastic vs matter-of-fact
