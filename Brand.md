@@ -3,6 +3,7 @@
 ## Properties
 
 ### primaryArchetype
+Jungian Archetype
 - The Innocent: Seeks happiness, optimism, and simplicity. 
 - The Everyman (or Regular Person): Aims to connect with others through relatability and belonging. 
 - The Hero: Inspires and empowers others, embodying courage and mastery. 
