@@ -33,6 +33,7 @@ Jungian Archetype
 
 
 ### humor
+Jakob Nielsen
 Funny vs serious
 
 
